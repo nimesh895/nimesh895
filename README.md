@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/nimesh23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nimesh23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:desilvanimesha684@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=nimesh895&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
@@ -65,24 +65,11 @@ Currently deep-diving into threat detection engineering, SIEM tuning, alert tria
 
 More tools I regularly use/have labs with: SIEM (Splunk, Elastic, Sentinel), Sigma/YARA, MITRE ATT&CK, Wireshark/Volatility, Proxmox/Azure VMs, Python/Bash/PowerShell automation.
 
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesh895&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimesh895&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ### 🌐 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/nimesh23">
+  <a href="https://www.linkedin.com/in/nimesh23">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
 </p>
