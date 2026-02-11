@@ -19,16 +19,23 @@
 
 ### 🛡️ About Me
 
-Passionate **blue team defender** building realistic SOC homelabs from scratch.  
-Deep into threat detection, SIEM deployment (Wazuh, Microsoft Sentinel), endpoint monitoring, phishing analysis, malware dissection, and turning open-source tools into production-grade security practice.
+**Blue team operator building production-like SOC labs from scratch.**
 
-- 🔭 Actively building & documenting **Wazuh-based SOC labs**, Azure security monitoring, phishing detection with ML, and CVE exploitation analysis
-- 🌱 Strengthening skills in SOC operations, threat hunting, MITRE ATT&CK, detection engineering, and cloud security
-- 👯 Open to collaborate on: Wazuh custom rules, Sigma rule development, Azure Sentinel playbooks, phishing classifiers, blue-team simulations
-- 🤝 Seeking feedback on: Lab architecture, detection logic, adversary emulation realism, and documentation quality
-- 💬 Ask me about: Wazuh deployment & tuning, Azure monitoring, phishing email analysis, Follina CVE deep dive, Splunk basics, Wireshark/Nmap
-- 📫 Reach me: **desilvanimesha684@gmail.com**
-- ⚡ Fun fact: I turn a weekend lab idea into a fully documented GitHub project faster than most finish a single tutorial 😄
+Specializing in threat detection, Wazuh + Sentinel tuning, Sigma rule crafting, phishing/ML analysis, malware dissection (Follina-style), and MITRE-mapped hunting.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=00FF9D&center=true&vCenter=true&width=380&lines=Defend. Detect. Hunt.;Wazuh Online → Sigma Loading...;Threats Don't Sleep — Neither Do I." alt="Mini Cyber Typing"/>
+</div>
+
+<br>
+
+- 🔭 **Active projects** — Wazuh SOC labs, Azure Sentinel monitoring, ML phishing detectors, CVE deep-dives
+- 🌱 **Sharpening** — Detection engineering, threat hunting, MITRE ATT&CK mapping, cloud defenses
+- 👯 **Open to collab** — Custom rules/decoders, Sigma ports, Sentinel playbooks, blue-team sims
+- 💬 **Hit me up about** — Wazuh tuning, phishing forensics, Follina chains, Wireshark/Nmap tricks
+- ⚡ Fun fact — Weekend lab → documented GitHub repo faster than most finish a tutorial 😄
+
+Let's tune detections and hunt better — drop a message! 🛡️
 
 ---
 
