@@ -1,6 +1,9 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nimesh+Akalanka;SOC+Analyst+in+Progress;Blue+Team+%7C+Threat+Detection+%7C+Lab+Builder" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <br>
@@ -15,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=nimesh895&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
+
+
 ---
 
 ### 🛡️ About Me
@@ -24,7 +29,7 @@
 Specializing in threat detection, Wazuh + Sentinel tuning, Sigma rule crafting, phishing/ML analysis, malware dissection (Follina-style), and MITRE-mapped hunting.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=00FF9D&center=true&vCenter=true&width=380&lines=Defend. Detect. Hunt.;Wazuh Online → Sigma Loading...;Threats Don't Sleep — Neither Do I." alt="Mini Cyber Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=00FF9D&center=true&vCenter=true&width=380&lines=Defend.+Detect.+Hunt.;Wazuh+Online+--+Sigma+Loading...;Threats+Don't+Sleep+--+Neither+Do+I." alt="Mini Cyber Typing"/>
 </div>
 
 <br>
@@ -68,15 +73,32 @@ Let's tune detections and hunt better — drop a message! 🛡️
 
 ---
 
-### 🔥 Featured Projects (Pinned Repos)
+### 🔥 Featured Blue-Team Labs (MITRE Coverage)
 
-Check out some of my active labs and write-ups:
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE%20Coverage-72%25-brightgreen?style=for-the-badge" alt="MITRE Coverage"/>
+</p>
 
-- **[wazuh-soc-homelab](https://github.com/nimesh895/wazuh-soc-homelab)** — Full Wazuh SIEM homelab setup with custom rules, attack simulations & documentation
-- **[wazuh-bruteforce-fim-homelab](https://github.com/nimesh895/wazuh-bruteforce-fim-homelab)** — Brute-force RDP detection + File Integrity Monitoring (FIM) with Wazuh
-- **[phishing-email-detection-soc](https://github.com/nimesh895/phishing-email-detection-soc)** — NLP + Machine Learning phishing classifier (Logistic Regression)
-- **[azure-security-monitoring-lab](https://github.com/nimesh895/azure-security-monitoring-lab)** — Azure-native monitoring with Sentinel, alerts & playbooks
-- **[Linux-Network-Services-Configuration-DHCP-DNS-NTP-](https://github.com/nimesh895/Linux-Network-Services-Configuration-DHCP-DNS-NTP-)** — Secure Linux network services setup
+- **[wazuh-soc-homelab](https://github.com/nimesh895/wazuh-soc-homelab)**  
+  🛡️ Core Wazuh SIEM blueprint (T1566 Phishing, T1110 Brute Force, T1003 Credential Dumping) • Custom rules & simulations
+
+- **[phishing-email-detection-soc](https://github.com/nimesh895/phishing-email-detection-soc)**  
+  📧 ML-based phishing detector (T1566.001 Spearphishing Attachment) • Dataset → Model → Deployment guide
+
+- **[azure-security-monitoring-lab](https://github.com/nimesh895/azure-security-monitoring-lab)**  
+  ☁️ Sentinel playbook automation (T1059 Command & Scripting) • Alert enrichment & response
+
+- **[wazuh-bruteforce-fim-homelab](https://github.com/nimesh895/wazuh-bruteforce-fim-homelab)**  
+  ⚡ RDP brute-force + FIM rules (T1110.001 Password Spraying)
+
+More coming: Suricata IDS integration, credential access hunts...
+  
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh895&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 
 ---
 
