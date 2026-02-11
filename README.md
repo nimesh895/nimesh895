@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nimesh+Akalanka;SOC+Analyst+in+Progress;Blue+Team+%7C+Threat+Detection+%7C+Lab+Builder" alt="Typing SVG" />
 </div>
 
-<!-- Snake animation – auto-updates daily via GitHub Action -->
+<!-- Pac-Man Contribution Graph (light/dark mode) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-snake.svg" width="800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="800" />
   </picture>
   <br/>
-  <sub>🐍 Contributions being devoured daily – keep the streak alive! 🟩</sub>
+  <sub>🍒 Pac-Man eating my contribution dots — keep feeding him! 👾</sub>
 </div>
 
 <br>
@@ -56,51 +56,13 @@ Deep into threat detection, SIEM deployment (Wazuh, Sentinel), endpoint monitori
 
 ---
 
-### 🔥 Featured SOC & Blue Team Labs
-
-Real hands-on projects I've built and documented — feel free to star ⭐, fork 🍴, or open issues/PRs!
-
-<p align="center">
-  <a href="https://github.com/nimesh895/wazuh-soc-homelab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=wazuh-soc-homelab&theme=radical" alt="Wazuh SOC Homelab"/>
-  </a>
-  <a href="https://github.com/nimesh895/azure-security-monitoring-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=azure-security-monitoring-lab&theme=radical" alt="Azure Security Monitoring Lab"/>
-  </a>
-  <a href="https://github.com/nimesh895/phishing-email-detection-soc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=phishing-email-detection-soc&theme=radical" alt="Phishing Email Detection SOC"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nimesh895/Malware-Analysis-Follina-CVE-2022-30190">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=Malware-Analysis-Follina-CVE-2022-30190&theme=radical" alt="Follina Malware Analysis"/>
-  </a>
-  <a href="https://github.com/nimesh895/wazuh-bruteforce-fim-homelab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=wazuh-bruteforce-fim-homelab&theme=radical" alt="Wazuh Bruteforce + FIM Lab"/>
-  </a>
-  <a href="https://github.com/nimesh895/wazuh-suricata-openvpn-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimesh895&repo=wazuh-suricata-openvpn-lab&theme=radical" alt="Wazuh + Suricata + OpenVPN Lab"/>
-  </a>
-</p>
-
-More labs: Linux services config (DHCP/DNS/NTP), website contact scam documentation, etc.
-
----
-
 ### 🛠️ Arsenal & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,linux,python,docker,bash,git,vscode,html,css,js,php,mysql,pandas,powershell,wazuh&perline=8" alt="Skills Icons"/>
 </p>
 
-**Daily drivers in labs:**
-- SIEM/XDR: Wazuh, Microsoft Sentinel
-- Detection: Sigma rules, custom decoders, ML (scikit-learn, NLTK)
-- Network/Endpoint: Suricata, OpenVPN, Wireshark, Nmap
-- Analysis: VirusTotal, static malware analysis, CVE deep dives (Follina etc.)
-- Infra: VirtualBox, Azure VMs, Ubuntu Server, Windows endpoints
-- Scripting: Python (NLP/ML, automation), Bash, PowerShell
+**Daily drivers in labs:** Wazuh, Sentinel, Suricata, Sigma, Wireshark, Nmap, Python (ML/automation), Bash, PowerShell, Azure VMs...
 
 ---
 
@@ -128,8 +90,8 @@ More labs: Linux services config (DHCP/DNS/NTP), website contact scam documentat
   </a>
 </p>
 
-Open to code reviews, lab feedback, pair-programming detections, or contributing to blue-team content.  
-Drop an email or repo issue — let's build stronger defenses together! 🛡️🔥
+Open to code reviews, lab feedback, detection tuning discussions.  
+Email or issue — let's defend better together! 🛡️🔥
 
 ---
 
