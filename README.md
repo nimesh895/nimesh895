@@ -54,7 +54,7 @@ Deep into threat detection, SIEM deployment (Wazuh, Sentinel), endpoint monitori
   <img src="https://img.shields.io/badge/Web_Design_(HTML_CSS_JS_MySQL)-007BFF?style=for-the-badge&logo=html5&logoColor=white" alt="UoM Web Design" title="Open University of Moratuwa"/>
 </p>
 
----
+
 
 ### 🛠️ Arsenal & Skills
 
