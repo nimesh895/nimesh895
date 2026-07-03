@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00FF9D&height=180&section=header&text=NIMESH%20AKALANKA&fontSize=42&fontColor=00FF9D&fontAlignY=38&animation=fadeIn&desc=Blue%20Team%20%7C%20Detection%20Engineering%20%7C%2075%2B%20Attack%20Sims&descAlignY=58&descSize=15&descColor=8f8f8f" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00FF9D&height=190&section=header&text=NIMESH%20AKALANKA&fontSize=42&fontColor=00FF9D&fontAlignY=36&animation=fadeIn&desc=Blue%20Team%20%7C%20Detection%20Engineering%20%7C%2075%2B%20Attack%20Sims&descAlignY=56&descSize=15&descColor=8f8f8f" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=720&lines=root%40soc-lab%3A~%24+whoami;nimesh_akalanka+%E2%80%94+cyber+security%2C+SLIIT;root%40soc-lab%3A~%24+cat+career_target.log;seeking%3A+remote+SOC+%2F+NOC+%2F+IT+support+roles;root%40soc-lab%3A~%24+status+--current;SY0-701+exam%3A+scheduled+%7C+labs%3A+75%2B+logged" alt="terminal typing animation" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=700&lines=root%40soc-lab%3A~%24+whoami;nimesh_akalanka+%E2%80%94+cyber+security%2C+SLIIT;root%40soc-lab%3A~%24+cat+career_target.log;seeking%3A+remote+SOC+%2F+NOC+%2F+IT+support+roles;root%40soc-lab%3A~%24+status+--current;SY0-701+exam%3A+scheduled+%7C+labs%3A+75%2B+logged" alt="terminal typing animation" />
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/nimesh23"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:desilvanimesha684@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-00FF9D?style=flat-square&logo=gmail&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=nimesh895&label=profile+views&color=00FF9D&style=flat-square"/>
+<img src="https://img.shields.io/badge/Security%2B%20SY0--701-in%20progress-0f0f0f?style=flat-square&logo=comptia&logoColor=00FF9D&labelColor=0f0f0f"/>
 
 </div>
 
@@ -75,6 +74,14 @@ Password-spray simulation against RDP paired with file integrity monitoring, to 
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+**`INC-005` · Suricata IDS Integration** · *Status: 🟡 Open — next in queue*
+<br>Network-layer detection to sit alongside the host-layer Wazuh stack. Goal: catch lateral movement that endpoint logging alone misses.
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -98,12 +105,45 @@ Password-spray simulation against RDP paired with file integrity monitoring, to 
 
 <br>
 
+## `> certifications`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-Intro%20%2B%20Threats%20%26%20Attacks-FF6A00?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qualys-Reporting%20Strategies-00AEEF?style=for-the-badge&logo=qualys&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/UoM-Web%20Design-007BFF?style=for-the-badge&logo=htmx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%2B%20SY0--701-exam%20scheduled-0f0f0f?style=for-the-badge&logo=comptia&logoColor=00FF9D"/>
+
+</div>
+
+<br>
+
+## `> roadmap — next 24 months`
+
+```
+[####------] Splunk / QRadar hands-on depth        in progress
+[###-------] KQL fluency                            in progress
+[----------] AZ-500 certification                    queued
+[##########] Security+ SY0-701                       exam scheduled
+[#######---] Suricata IDS lab (INC-005)              building
+```
+
+<br>
+
 ## `> live telemetry`
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimesh895&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh895&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9"/>
+
+<br><br>
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nimesh895&theme=highcontrast&hide_border=true&background=0d1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nimesh895&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="165"/>
 
 <br><br>
 
@@ -111,8 +151,8 @@ Password-spray simulation against RDP paired with file integrity monitoring, to 
 
 <br><br>
 
-<!-- snake-animation-placeholder -->
-<img src="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-contribution-grid-snake.svg" width="97%" alt="contribution snake — activates once the workflow below is added"/>
+<!-- requires the snake workflow below to be added to this repo -->
+<img src="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-contribution-grid-snake.svg" width="97%" alt="contribution snake — activates once the workflow is added"/>
 
 </div>
 
