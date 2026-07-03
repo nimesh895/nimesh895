@@ -18,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=nimesh895&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ---
