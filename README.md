@@ -11,7 +11,7 @@
   <!-- ⌨️ 2. DYNAMIC LIVE TYPEWRITER SVG (CYBER SPECIALTIES)        -->
   <!-- ============================================================ -->
   <a href="https://github.com/nimesh895">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&width=650&height=45&lines=SOC+Analyst+%7C+Threat+Hunting+%26+SIEM+Telemetry;Malware+Researcher+%7C+CVE-2022-30190+Dissection;Wazuh+SIEM+Detection+Rules+%26+FIM+Engineering;Hardened+Linux+Infrastructure+%26+Network+Forensics" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&width=680&height=45&lines=SOC+Analyst+%7C+Threat+Hunting+%26+SIEM+Telemetry;Malware+Researcher+%7C+CVE-2022-30190+Dissection;Wazuh+SIEM+Detection+Rules+%26+FIM+Engineering;Hardened+Linux+Infrastructure+%26+Network+Forensics" alt="Typing SVG Animation" />
   </a>
 
   <br/>
@@ -40,56 +40,38 @@
 
 </div>
 
----
-
-### 🛡️ Operator Telemetry & Profile
-
-```yaml
-analyst: Nimesh de Silva
-handle: nimesh895
-primary_domains: [SOC Operations, SIEM Architecture, Malware Reverse Engineering, Network Defense]
-core_specializations:
-  siem_edr: "Wazuh SIEM, Sysmon, Custom XML Detection Rules, Active Response"
-  threat_analysis: "Static & Behavioral Malware Analysis, IoC Attribution, MITRE ATT&CK Mapping"
-  infrastructure: "Hardened Linux Systems (Bind9, Kea/ISC DHCP, Chrony NTP, IPTables/UFW)"
-security_clearance_status: "Open to Full-Time SOC / Cyber Defense Roles & Red/Blue Collaborations"
-mantra: "Assume breach. Log everything. Automate containment. Hunt continuously."
-```
-
-- 🎯 **Current Mission**: Building enterprise-grade detection rules, analyzing zero-day exploits, and conducting static analysis on sophisticated threat actor payloads.
-- 🔬 **Published Research**: Detailed step-by-step technical teardown of **Microsoft Support Diagnostic Tool (MSDT) Follina CVE-2022-30190**.
-- 🏢 **Defensive Homelab**: Wazuh SIEM cluster actively monitoring Windows & Linux endpoints with File Integrity Monitoring (FIM) and automated RDP brute-force mitigation.
-- 💬 **Discuss With Me**: Incident response workflows, log telemetry parsing, YARA signatures, memory analysis, and network packet forensics.
-
----
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🎬 3. INTERACTIVE LAB & VIDEO WALKTHROUGH SHOWCASE          -->
+<!-- 🖥️ 3. LIVE ANIMATED SOC SIEM HUD & THREAT RADAR              -->
 <!-- ============================================================ -->
-### 🎬 Security Homelab & Video Walkthrough Showcase
+### 🖥️ Live SOC Command Center & Threat Radar
 
 <div align="center">
-  <a href="https://github.com/nimesh895/wazuh-bruteforce-fim-homelab" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:064E3B&height=180&text=▶%20Watch%20SOC%20Homelab%20%26%20Malware%20Analysis%20Walkthrough&fontSize=22&fontColor=10B981&desc=Click%20to%20inspect%20interactive%20Wazuh%20alert%20dashboards%20and%20CVE%20teardown%20demos&descSize=13&descColor=A7F3D0" alt="Watch Security Lab Walkthrough" width="95%" />
-  </a>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/nimesh895/wazuh-bruteforce-fim-homelab">
-      <img src="https://img.shields.io/badge/Wazuh_SIEM_Lab-Live_Walkthrough-0080FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Lab" />
-    </a>
-    <a href="https://github.com/nimesh895/Malware-Analysis-Follina-CVE-2022-30190">
-      <img src="https://img.shields.io/badge/Malware_Analysis-CVE--2022--30190_Writeup-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="CVE Writeup" />
-    </a>
-    <a href="https://github.com/nimesh895?tab=repositories">
-      <img src="https://img.shields.io/badge/Network_Defense-Linux_Services_Hardening-059669?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Network" />
-    </a>
-  </p>
+  <img src="./assets/cyber-hud-telemetry.svg" alt="Live Wazuh SIEM Terminal and Threat Radar HUD" width="100%" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="./assets/cyber-bento-domains.svg" alt="Core Cybersecurity Bento Capabilities" width="100%" />
+</div>
+
+<br/>
+
+- 🎯 **Current Mission**: Engineering high-fidelity SIEM detection rules, dissecting zero-day exploits, and performing static/behavioral analysis on modern threat payloads.
+- 🔬 **Published Vulnerability Research**: Step-by-step static analysis teardown of **Microsoft Support Diagnostic Tool (MSDT) Follina RCE (`CVE-2022-30190`)**.
+- 🏢 **Active Defensive Homelab**: Multi-node **Wazuh SIEM** environment monitoring Windows & Linux endpoints with **File Integrity Monitoring (FIM)**, **Sysmon** telemetry, and automated **RDP brute-force containment**.
+- 💬 **Ask Me About**: Wazuh XML rule tuning, incident response playbooks, YARA rules, packet forensics (`Wireshark`/`tcpdump`), and Linux network hardening.
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🔬 4. VERIFIED CORE REPOSITORIES SHOWCASE                    -->
+<!-- 🔬 4. VERIFIED CORE REPOSITORIES & ARCHITECTURE BLUEPRINTS   -->
 <!-- ============================================================ -->
 ### 🔬 Featured Security Labs & Research Repositories
 
@@ -139,11 +121,11 @@ mantra: "Assume breach. Log everything. Automate containment. Hunt continuously.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/nimesh895?tab=repositories">SOC Homelab Ecosystem</a></h3>
-      <p><b>Virtualized Cyber Range</b> simulating multi-stage cyber attacks, lateral movement detection, Active Directory audit log collection, and automated SIEM alert escalation pipelines.</p>
+      <h3 align="left">⚡ <a href="https://github.com/nimesh895?tab=repositories">SOC Cyber Range & Threat Hunting</a></h3>
+      <p><b>Virtualized Security Lab</b> simulating multi-stage intrusion chains, credential dumping detection, Active Directory event log auditing, and automated SIEM incident response workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Virtualization-Proxmox_%2F_VMware-E65C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Threat_Intel-AlienVault_OTX-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Threat_Intel-VirusTotal_%26_OTX-059669?style=flat-square" />
         <img src="https://img.shields.io/badge/Automation-Bash_%26_Python-3776AB?style=flat-square" />
       </p>
       <p>
@@ -153,8 +135,93 @@ mantra: "Assume breach. Log everything. Automate containment. Hunt continuously.
   </tr>
 </table>
 
----
+<!-- INTERACTIVE ARCHITECTURE ACCORDIONS -->
+<details>
+  <summary><b>📐 Click to Expand: Wazuh SIEM &amp; FIM Detection Architecture Blueprint (Interactive Diagram)</b></summary>
+  <br/>
 
+```mermaid
+flowchart LR
+    subgraph AttackSurface["🔴 Threat Actor Simulation"]
+      A1["RDP Brute-Force (Hydra/Crowbar)"]
+      A2["Unauthorized System32 File Tampering"]
+    end
+
+    subgraph Endpoint["🖥️ Monitored Target Endpoint"]
+      E1["Windows Event Log (Event ID 4625)"]
+      E2["Sysmon & Wazuh FIM Engine (syscheck)"]
+      E3["Wazuh Agent Forwarder"]
+    end
+
+    subgraph SIEM["🛡️ Wazuh SIEM Server & SOC"]
+      S1["Logcollector & Decoder Pipeline"]
+      S2["Custom XML Rules (5716 / 550 / 100002)"]
+      S3["MITRE ATT&CK Mapping (T1110.001)"]
+      S4["Active Response Firewall Drop & SOC Alert"]
+    end
+
+    A1 --> E1
+    A2 --> E2
+    E1 & E2 --> E3
+    E3 -->|"TLS Encrypted (1514)"| S1
+    S1 --> S2 --> S3 --> S4
+```
+</details>
+
+<details>
+  <summary><b>🧬 Click to Expand: Follina (CVE-2022-30190) Malware Execution &amp; Analysis Kill-Chain</b></summary>
+  <br/>
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant Doc as 📄 Weaponized DOCX
+    participant Rel as 🔗 word/_rels/document.xml.rels
+    participant C2 as 🌐 External HTML Payload
+    participant MSDT as ⚙️ ms-msdt:// Protocol Handler
+    participant SOC as 🛡️ Static Analysis & IoC Extraction
+
+    Doc->>Rel: Loads external OLE object template reference
+    Rel->>C2: HTTP GET request to attacker-hosted HTML
+    C2->>MSDT: Invokes ms-msdt:/id PCWDiagnostic with Base64 PowerShell
+    MSDT->>SOC: Captured in Sandbox • Extracted SHA256, C2 URLs & YARA Rule
+```
+</details>
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
+
+<!-- ============================================================ -->
+<!-- 🎬 5. INTERACTIVE LAB & VIDEO WALKTHROUGH SHOWCASE          -->
+<!-- ============================================================ -->
+### 🎬 Security Homelab & Video Walkthrough Showcase
+
+<div align="center">
+  <a href="https://github.com/nimesh895/wazuh-bruteforce-fim-homelab" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:064E3B&height=175&text=▶%20Watch%20SOC%20Homelab%20%26%20Malware%20Analysis%20Walkthrough&fontSize=22&fontColor=10B981&desc=Click%20to%20inspect%20interactive%20Wazuh%20alert%20dashboards%20and%20CVE%20teardown%20demos&descSize=13&descColor=A7F3D0" alt="Watch Security Lab Walkthrough" width="100%" />
+  </a>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/nimesh895/wazuh-bruteforce-fim-homelab">
+      <img src="https://img.shields.io/badge/Wazuh_SIEM_Lab-Live_Walkthrough-0080FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Lab" />
+    </a>
+    <a href="https://github.com/nimesh895/Malware-Analysis-Follina-CVE-2022-30190">
+      <img src="https://img.shields.io/badge/Malware_Analysis-CVE--2022--30190_Writeup-DC2626?style=for-the-badge&logo=target&logoColor=white" alt="CVE Writeup" />
+    </a>
+    <a href="https://github.com/nimesh895/Linux-Network-Services-Configuration-DHCP-DNS-NTP-">
+      <img src="https://img.shields.io/badge/Network_Defense-Linux_Services_Hardening-059669?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Network" />
+    </a>
+  </p>
+</div>
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
+
+<!-- ============================================================ -->
+<!-- 🧰 6. CYBERSECURITY & DEFENSIVE ARSENAL                      -->
+<!-- ============================================================ -->
 ### 🧰 Cybersecurity & Defensive Arsenal
 
 <div align="center">
@@ -192,25 +259,25 @@ mantra: "Assume breach. Log everything. Automate containment. Hunt continuously.
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 🐍 5. ANIMATED GITHUB CONTRIBUTION SNAKE GAME GRAPH          -->
+<!-- 🐍 7. ANIMATED GITHUB CONTRIBUTION SNAKE GAME GRAPH          -->
 <!-- ============================================================ -->
-### 🐍 Activity Snake Game Animation
+### 🐍 Autonomous Contribution Snake Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/nimesh895/nimesh895/output/github-contribution-grid-snake.svg" alt="nimesh895 Contribution Snake" width="100%" />
-  </picture>
+  <img src="./assets/cyber-snake-animated.svg" alt="nimesh895 Animated Contribution Snake" width="100%" />
 </div>
 
----
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================ -->
-<!-- 📈 6. ANIMATED CONTRIBUTION WAVE ACTIVITY GRAPH              -->
+<!-- 📈 8. ANIMATED CONTRIBUTION WAVE ACTIVITY GRAPH              -->
 <!-- ============================================================ -->
 ### 📈 Contribution Wave Activity Graph
 
@@ -218,16 +285,21 @@ mantra: "Assume breach. Log everything. Automate containment. Hunt continuously.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nimesh895&theme=tokyo-night&hide_border=true&area=true&bg_color=020617&color=10B981&line=38BDF8&point=34D399" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nimesh895&theme=github-compact&hide_border=true&area=true&bg_color=F6F8FA" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh895&theme=tokyo-night&hide_border=true&area=true" alt="nimesh895 Contribution Wave Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimesh895&theme=tokyo-night&hide_border=true&area=true" alt="nimesh895 Contribution Wave Graph" width="100%" />
   </picture>
 </div>
 
----
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
+<!-- ============================================================ -->
+<!-- 📊 9. SECURITY TELEMETRY, STATS & GITSKINS SHOWCASE         -->
+<!-- ============================================================ -->
 ### 📊 Security Telemetry & GitHub Analytics
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/nimesh895">
@@ -262,8 +334,42 @@ mantra: "Assume breach. Log everything. Automate containment. Hunt continuously.
   </p>
 </div>
 
----
+<details>
+  <summary><b>🎨 Click to Expand: GitSkins Dynamic Profile Cards (Dual-Theme)</b></summary>
+  <br/>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nimesh895&theme=github-dark&mode=light" />
+      <img src="https://www.gitskins.com/api/section/about?username=nimesh895&theme=github-dark" alt="nimesh895 about section" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nimesh895&theme=github-dark&mode=light" />
+      <img src="https://www.gitskins.com/api/section/stack?username=nimesh895&theme=github-dark" alt="nimesh895 stack section" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nimesh895&theme=github-dark&mode=light" />
+      <img src="https://www.gitskins.com/api/section/stats?username=nimesh895&theme=github-dark" alt="nimesh895 stats section" />
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nimesh895&theme=github-dark&mode=light" />
+      <img src="https://www.gitskins.com/api/section/projects?username=nimesh895&theme=github-dark" alt="nimesh895 projects section" />
+    </picture>
+  </p>
+</details>
 
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Section Divider" width="100%" />
+</p>
+
+<!-- ============================================================ -->
+<!-- 🤝 10. CONNECT & COLLABORATE                                 -->
+<!-- ============================================================ -->
 ### 🤝 Connect & Collaborate
 
 Interested in discussing incident response strategies, malware reverse engineering, or collaborating on SOC homelabs? Let's connect!
@@ -284,6 +390,15 @@ Interested in discussing incident response strategies, malware reverse engineeri
   <a href="https://github.com/nimesh895">
     <img src="https://img.shields.io/badge/GitHub-nimesh895-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nimesh895&theme=github-dark&email=desilvanimesh684%40gmail.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=nimesh895&theme=github-dark&email=desilvanimesh684%40gmail.com" alt="nimesh895 social section" />
+  </picture>
 </div>
 
 <br/>
