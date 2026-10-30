@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 185" width="100%" height="185">
+  <defs>
+    <linearGradient id="bentoCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="barEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+    <linearGradient id="barRose" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E11D48" />
+      <stop offset="100%" stop-color="#FB7185" />
+    </linearGradient>
+    <linearGradient id="barCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="barPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    @keyframes fillBar {
+      0% { transform: scaleX(0.1); }
+      100% { transform: scaleX(1); }
+    }
+    @keyframes glowPulse {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+    .bar-anim {
+      transform-origin: left center;
+      animation: fillBar 1.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+    }
+    .status-glow { animation: glowPulse 2.5s infinite ease-in-out; }
+  </style>
+
+  <!-- CARD 1: SOC & SIEM ENGINEERING -->
+  <g transform="translate(0, 5)">
+    <rect x="4" y="0" width="214" height="172" rx="14" fill="url(#bentoCard)" stroke="#059669" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="20" y="18" width="64" height="20" rx="6" fill="#064E3B" />
+    <text x="30" y="32" class="mono" font-size="10" font-weight="bold" fill="#34D399">01 // SOC</text>
+    <circle class="status-glow" cx="196" cy="28" r="4" fill="#10B981" />
+
+    <text x="20" y="62" class="sans" font-size="14" font-weight="bold" fill="#F8FAFC">SIEM &amp; Detection Ops</text>
+    <text x="20" y="84" class="sans" font-size="11" fill="#94A3B8">Wazuh SIEM, Custom XML Rules,</text>
+    <text x="20" y="100" class="sans" font-size="11" fill="#94A3B8">Sysmon &amp; FIM Engineering</text>
+
+    <text x="20" y="132" class="mono" font-size="10" fill="#34D399">DETECTION COVERAGE</text>
+    <text x="172" y="132" class="mono" font-size="10" font-weight="bold" fill="#F8FAFC">96%</text>
+    <rect x="20" y="140" width="182" height="6" rx="3" fill="#1E293B" />
+    <rect class="bar-anim" x="20" y="140" width="174" height="6" rx="3" fill="url(#barEmerald)" />
+  </g>
+
+  <!-- CARD 2: MALWARE & CVE RESEARCH -->
+  <g transform="translate(226, 5)">
+    <rect x="4" y="0" width="214" height="172" rx="14" fill="url(#bentoCard)" stroke="#E11D48" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="20" y="18" width="68" height="20" rx="6" fill="#4C0519" />
+    <text x="28" y="32" class="mono" font-size="10" font-weight="bold" fill="#FB7185">02 // LABS</text>
+    <circle class="status-glow" cx="196" cy="28" r="4" fill="#F43F5E" />
+
+    <text x="20" y="62" class="sans" font-size="14" font-weight="bold" fill="#F8FAFC">Malware Analysis</text>
+    <text x="20" y="84" class="sans" font-size="11" fill="#94A3B8">CVE-2022-30190 Dissection,</text>
+    <text x="20" y="100" class="sans" font-size="11" fill="#94A3B8">Static Unpacking &amp; IoCs</text>
+
+    <text x="20" y="132" class="mono" font-size="10" fill="#FB7185">REVERSE ENGINEERING</text>
+    <text x="172" y="132" class="mono" font-size="10" font-weight="bold" fill="#F8FAFC">92%</text>
+    <rect x="20" y="140" width="182" height="6" rx="3" fill="#1E293B" />
+    <rect class="bar-anim" x="20" y="140" width="167" height="6" rx="3" fill="url(#barRose)" />
+  </g>
+
+  <!-- CARD 3: LINUX & NETWORK DEFENSE -->
+  <g transform="translate(452, 5)">
+    <rect x="4" y="0" width="214" height="172" rx="14" fill="url(#bentoCard)" stroke="#0284C7" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="20" y="18" width="68" height="20" rx="6" fill="#082F49" />
+    <text x="28" y="32" class="mono" font-size="10" font-weight="bold" fill="#38BDF8">03 // NET</text>
+    <circle class="status-glow" cx="196" cy="28" r="4" fill="#38BDF8" />
+
+    <text x="20" y="62" class="sans" font-size="14" font-weight="bold" fill="#F8FAFC">Linux &amp; Net Defense</text>
+    <text x="20" y="84" class="sans" font-size="11" fill="#94A3B8">Bind9 DNS, DHCP, Chrony NTP,</text>
+    <text x="20" y="100" class="sans" font-size="11" fill="#94A3B8">IPTables &amp; Packet Forensics</text>
+
+    <text x="20" y="132" class="mono" font-size="10" fill="#38BDF8">SYSTEMS HARDENING</text>
+    <text x="172" y="132" class="mono" font-size="10" font-weight="bold" fill="#F8FAFC">95%</text>
+    <rect x="20" y="140" width="182" height="6" rx="3" fill="#1E293B" />
+    <rect class="bar-anim" x="20" y="140" width="172" height="6" rx="3" fill="url(#barCyan)" />
+  </g>
+
+  <!-- CARD 4: THREAT INTEL & ATT&CK -->
+  <g transform="translate(678, 5)">
+    <rect x="4" y="0" width="214" height="172" rx="14" fill="url(#bentoCard)" stroke="#7C3AED" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="20" y="18" width="68" height="20" rx="6" fill="#2E1065" />
+    <text x="28" y="32" class="mono" font-size="10" font-weight="bold" fill="#A78BFA">04 // CTI</text>
+    <circle class="status-glow" cx="196" cy="28" r="4" fill="#A78BFA" />
+
+    <text x="20" y="62" class="sans" font-size="14" font-weight="bold" fill="#F8FAFC">MITRE ATT&amp;CK &amp; IR</text>
+    <text x="20" y="84" class="sans" font-size="11" fill="#94A3B8">Threat Intelligence Mapping,</text>
+    <text x="20" y="100" class="sans" font-size="11" fill="#94A3B8">YARA Rules &amp; Incident Triage</text>
+
+    <text x="20" y="132" class="mono" font-size="10" fill="#A78BFA">THREAT ATTRIBUTION</text>
+    <text x="172" y="132" class="mono" font-size="10" font-weight="bold" fill="#F8FAFC">94%</text>
+    <rect x="20" y="140" width="182" height="6" rx="3" fill="#1E293B" />
+    <rect class="bar-anim" x="20" y="140" width="170" height="6" rx="3" fill="url(#barPurple)" />
+  </g>
+</svg>
